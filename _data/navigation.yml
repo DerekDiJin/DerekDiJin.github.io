@@ -9,7 +9,7 @@ main:
   - title: "Experience"
     url: "/experience/"
   - title: "Resume"
-    url: "/resume/Resume.pdf"
+    url: "/assets/pdf/Resume.pdf"
   # - title: "Miscellany"
   #   url: /miscellany/
   # - title: "Sitemap"
