@@ -24,7 +24,7 @@ Conference & Journal
 
 * ###### **_Di Jin_**, Aristotelis Leventidis, Haoming Shen, Ruowang Zhang, JunyueWu and Danai Koutra. PERSEUSHUB: Interactive and Collective Exploration of Large-Scale Graphs. Informatics 2017, 4, 22. (deployed system on Amazon AWS and Azure) [[paper]](https://www.mdpi.com/2227-9709/4/3/22) [[code]](https://github.com/DerekDiJin/PERSEUS_Spark) ######
 
-* ###### **_Di Jin_**, Mengdi Wang, Yu-Ru Lin. TELELINK: Link Prediction in Social Network Based on Multiplex Cohesive Structures. 2016 International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS), June 2016. ######
+* ###### **_Di Jin_**, Mengdi Wang, Yu-Ru Lin. TELELINK: Link Prediction in Social Network Based on Multiplex Cohesive Structures. 2016 International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS), June 2016. [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-39931-7_17) ######
 
 Workshop & Demo
 ------
