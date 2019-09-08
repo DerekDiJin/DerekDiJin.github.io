@@ -30,6 +30,6 @@ Workshop & Demo
 ------
 * ###### **_Di Jin_** and Danai Koutra. Exploratory Analysis of Networks by Leveraging Domain Knowledge. International School and Conference on Network Science (NetSci’17), June 2017. ######
 
-* ###### **_Di Jin_**, Christos Faloutsos, Danai Koutra, Ticha Sethapakdi. PERSEUS3: Visualizing and Interactively Mining Large-Scale Graphs. KDD Workshop on Mining and Learning with Graphs (MLG), August 2016. [[paper]](http://www.mlgworkshop.org/2016/paper/MLG2016_paper_16.pdf) [[poster]](/assets/pdf/kdd_poster_v5) ######
+* ###### **_Di Jin_**, Christos Faloutsos, Danai Koutra, Ticha Sethapakdi. PERSEUS3: Visualizing and Interactively Mining Large-Scale Graphs. KDD Workshop on Mining and Learning with Graphs (MLG), August 2016. [[paper]](http://www.mlgworkshop.org/2016/paper/MLG2016_paper_16.pdf) [[poster]](/assets/pdf/kdd_poster_v5.pdf) ######
 
 * ###### Danai Koutra, **_Di Jin_**, Yuanchi Ning, and Christos Faloutsos. PERSEUS: An Interactive Large-Scale Graph Mining and Visualization Tool. VLDB, Hawaii, September 2015. [[paper]](http://www.vldb.org/pvldb/vol8/p1924-koutra.pdf) ######
