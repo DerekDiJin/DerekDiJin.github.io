@@ -15,4 +15,12 @@
 <url>
 <loc>http://localhost:4000/research/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/assets/pdf/Poster_v10_final.pdf</loc>
+<lastmod>2019-08-01T16:36:17-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/pdf/Trove-poster.pdf</loc>
+<lastmod>2019-09-07T21:33:40-04:00</lastmod>
+</url>
 </urlset>
