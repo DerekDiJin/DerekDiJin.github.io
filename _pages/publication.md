@@ -25,7 +25,7 @@ Conference & Journal
 
 * ###### **_Di Jin_**, Mengdi Wang, Yu-Ru Lin. TELELINK: Link Prediction in Social Network Based on Multiplex Cohesive Structures. 2016 International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS), June 2016. ######
 
-Workshops & Demos
+Workshop & Demo
 ------
 * ###### **_Di Jin_** and Danai Koutra. Exploratory Analysis of Networks by Leveraging Domain Knowledge. International School and Conference on Network Science (NetSci’17), June 2017. ######
 
