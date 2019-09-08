@@ -13,9 +13,9 @@ Conference & Journal
 
 * ###### **_Di Jin_**, Mark Heimann, Ryan Rossi and Danai Koutra. node2bits: Compact Time- and Attribute-aware Node Representations for User Stitching. The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), Würzburg, Germany, Sep. 2019. ######
 
-* ###### **_Di Jin_**, Ryan Rossi, Eunyee Koh, Sungchul Kim, Anup Rao and Danai Koutra. Latent Network Summarization: Bridging Network Embedding and Summarization. ACM SIGKDD Conference of Knowledge Discovery and Data Mining (KDD), Anchorage, Aug. 2019. [[paper]](https://dl.acm.org/citation.cfm?id=3330992) [[poster]](/assets/pdf/Poster_v10_final.pdf) ######
+* ###### **_Di Jin_**, Ryan Rossi, Eunyee Koh, Sungchul Kim, Anup Rao and Danai Koutra. Latent Network Summarization: Bridging Network Embedding and Summarization. ACM SIGKDD Conference of Knowledge Discovery and Data Mining (KDD), Anchorage, Aug. 2019. [[paper]](https://dl.acm.org/citation.cfm?id=3330992) [[poster]](/assets/pdf/Poster_v10_final.pdf) [[code]](https://github.com/DerekDiJin/Multi-Lens) ######
 
-* ###### **_Di Jin_**, Mark Heimann, Tara Safavi, Mengdi Wang, Wei Lee, Lindsay Snider and Danai Koutra. Smart Roles: Inferring Professional Roles in Email Networks. ACM SIGKDD Conference of Knowledge Discovery and Data Mining (KDD), Anchorage, Aug. 2019. [[paper]](https://dl.acm.org/citation.cfm?id=3330735) [[poster]](/assets/pdf/Trove-poster.pdf) ######
+* ###### **_Di Jin_**, Mark Heimann, Tara Safavi, Mengdi Wang, Wei Lee, Lindsay Snider and Danai Koutra. Smart Roles: Inferring Professional Roles in Email Networks. ACM SIGKDD Conference of Knowledge Discovery and Data Mining (KDD), Anchorage, Aug. 2019. [[paper]](https://dl.acm.org/citation.cfm?id=3330735) [[poster]](/assets/pdf/Trove-poster.pdf) [[code]](https://github.com/GemsLab/EMBER) ######
 
 * ###### Yujun Yan, Mark Heimann, **_Di Jin_** and Danai Koutra. Fast Flow-based Random Walk with Restart in a Multi-query Setting. SIAM International Conference on Data Mining (SDM), San Diego, May 2018. ######
 
