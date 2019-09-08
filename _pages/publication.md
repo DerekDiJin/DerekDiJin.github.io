@@ -13,7 +13,7 @@ Conference & Journal
 
 * ###### **_Di Jin_**, Mark Heimann, Ryan Rossi and Danai Koutra. node2bits: Compact Time- and Attribute-aware Node Representations for User Stitching. The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), Würzburg, Germany, Sep. 2019. ######
 
-* ###### **_Di Jin_**, Ryan Rossi, Eunyee Koh, Sungchul Kim, Anup Rao and Danai Koutra. Latent Network Summarization: Bridging Network Embedding and Summarization. ACM SIGKDD Conference of Knowledge Discovery and Data Mining (KDD), Anchorage, Aug. 2019. ######
+* ###### **_Di Jin_**, Ryan Rossi, Eunyee Koh, Sungchul Kim, Anup Rao and Danai Koutra. Latent Network Summarization: Bridging Network Embedding and Summarization. ACM SIGKDD Conference of Knowledge Discovery and Data Mining (KDD), Anchorage, Aug. 2019. [[paper]](https://dl.acm.org/citation.cfm?id=3330992). ######
 
 * ###### **_Di Jin_**, Mark Heimann, Tara Safavi, and Danai Koutra. Smart Roles: Inferring Professional Roles in Email Networks. ACM SIGKDD Conference of Knowledge Discovery and Data Mining (KDD), Anchorage, Aug. 2019. ######
 
