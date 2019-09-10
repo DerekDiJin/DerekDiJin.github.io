@@ -20,7 +20,7 @@ Conference & Journal
 
 * ###### Yujun Yan, Mark Heimann, **_Di Jin_** and Danai Koutra. Fast Flow-based Random Walk with Restart in a Multi-query Setting. SIAM International Conference on Data Mining (SDM), San Diego, May 2018. ######
 
-* ###### **_Di Jin_** and Danai Koutra. Exploratory Analysis of Graph Data by Leveraging Domain Knowledge. IEEE International conference of data mining. (ICDM), New Orleans, November 2017. [[paper]](http://web.eecs.umich.edu/~dkoutra/papers/17_EAGLE_ICDM.pdf) [[code]](https://github.com/DerekDiJin/Domain_Knowledge) ######
+* ###### **_Di Jin_** and Danai Koutra. Exploratory Analysis of Graph Data by Leveraging Domain Knowledge. IEEE International conference of data mining. (ICDM), New Orleans, November 2017. [[paper]](http://web.eecs.umich.edu/~dkoutra/papers/17_EAGLE_ICDM.pdf) [[slides]](/assets/ICDM_Slides.pdf) [[code]](https://github.com/DerekDiJin/Domain_Knowledge) ######
 
 * ###### **_Di Jin_**, Aristotelis Leventidis, Haoming Shen, Ruowang Zhang, JunyueWu and Danai Koutra. PERSEUSHUB: Interactive and Collective Exploration of Large-Scale Graphs. Informatics 2017, 4, 22. (deployed system on Amazon AWS and Azure) [[paper]](https://www.mdpi.com/2227-9709/4/3/22) [[code]](https://github.com/DerekDiJin/PERSEUS_Spark) ######
 
