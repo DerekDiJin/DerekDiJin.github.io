@@ -12,7 +12,7 @@ Conference & Journal
 
 * ###### (Under review) Ryan Rossi, **_Di Jin_**, Sungchul Kim, Nerseen Ahmed, John Boaz Lee and Danai Koutra. From Community to Role-based Graph Embeddings. ######
 
-* ###### **_Di Jin_**, Mark Heimann, Ryan Rossi and Danai Koutra. node2bits: Compact Time- and Attribute-aware Node Representations for User Stitching. The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), Würzburg, Germany, Sep. 2019. [[paper]]() [[poster]](/assets/pdf/19-PKDD-node2bits-poster.pdf) [[code]](https://github.com/DerekDiJin/node2bits) ######
+* ###### **_Di Jin_**, Mark Heimann, Ryan Rossi and Danai Koutra. node2bits: Compact Time- and Attribute-aware Node Representations for User Stitching. The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), Würzburg, Germany, Sep. 2019. [[paper]](https://arxiv.org/abs/1904.08572) [[poster]](/assets/pdf/19-PKDD-node2bits-poster.pdf) [[code]](https://github.com/DerekDiJin/node2bits) ######
 
 * ###### **_Di Jin_**, Ryan Rossi, Eunyee Koh, Sungchul Kim, Anup Rao and Danai Koutra. Latent Network Summarization: Bridging Network Embedding and Summarization. ACM SIGKDD Conference of Knowledge Discovery and Data Mining (KDD), Anchorage, Aug. 2019. [[paper]](https://dl.acm.org/citation.cfm?id=3330992) [[poster]](/assets/pdf/Poster_v10_final.pdf) [[code]](https://github.com/DerekDiJin/Multi-Lens) ######
 
