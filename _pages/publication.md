@@ -28,6 +28,8 @@ Conference & Journal
 
 Workshop & Demo
 ------
+* ###### **_Di Jin_**, Ryan Rossi, Eunyee Koh, Sungchul Kim, Anup Rao and Danai Koutra. Latent Network Summarization: Bridging Network Embedding and Summarization. ACM SIGKDD Conference of Knowledge Discovery and Data Mining (KDD), Anchorage, Aug. 2019.
+
 * ###### **_Di Jin_** and Danai Koutra. Exploratory Analysis of Networks by Leveraging Domain Knowledge. International School and Conference on Network Science (NetSci’17), June 2017. ######
 
 * ###### **_Di Jin_**, Christos Faloutsos, Danai Koutra, Ticha Sethapakdi. PERSEUS3: Visualizing and Interactively Mining Large-Scale Graphs. KDD Workshop on Mining and Learning with Graphs (MLG), August 2016. [[paper]](http://www.mlgworkshop.org/2016/paper/MLG2016_paper_16.pdf) [[poster]](/assets/pdf/kdd_poster_v5.pdf) ######
