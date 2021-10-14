@@ -27,4 +27,4 @@ My research applications include:
 
 * ###### Temporal link prediction and anomaly detection in heterogeneous web networks, e.g., predicting the potential friend of a user in social networks even though they didn't know about each other in the past, as well as detecting the fraud (such as a bot for malicious advertising) in user-product networks of the online sales website. This application aims to improve the quality of advertisement and customer purchasing experience. ######
 
-* ###### Multi-modality representation fusion for recommendation \& customization, e.g., how to incorporate the multi-modal information of a book (such as the image of its cover and the textual description) to better represent it for classification or advertising to customers? ######
+* ###### Multi-modality representation fusion for recommendation & customization, e.g., how to incorporate the multi-modal information of a book (such as the image of its cover and the textual description) to better represent it for classification or advertising to customers? ######
