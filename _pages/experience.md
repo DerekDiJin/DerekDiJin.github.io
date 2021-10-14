@@ -8,6 +8,8 @@ permalink: /experience/
 Work Experience
 ------
 
+* ###### Research intern at **_Amazon Research_**, Seattle, June-October, 2020. Mentors: Bunyamin Sisman and Luna Xin Dong ######
+
 * ###### Data science intern at **_Adobe Research_**, San Jose, May-August, 2019. Mentors: Sungchul Kim and Ryan Rossi ######
 
 * ###### Data science intern at **_Adobe Research_**, San Jose, May-August, 2018. Mentor: Ryan Rossi ######
