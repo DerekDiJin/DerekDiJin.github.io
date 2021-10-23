@@ -8,9 +8,18 @@ permalink: /publication/
 Conference & Journal
 ------
 
-* ###### (Under preparation) **_Di Jin_**, Sungchul Kim, Ryan Rossi, Danai Koutra. Temporal Reachability Graph embedding ######
 
-* ###### (Under review) Ryan Rossi, **_Di Jin_**, Sungchul Kim, Nerseen Ahmed, John Boaz Lee and Danai Koutra. From Community to Role-based Graph Embeddings. ######
+* ###### **_Di Jin_**, Bunyamin Sisman, Hao Wei, Luna Xin Dong and Danai Koutra. Deep Transfer Learning for Multi-source Entity Linkage via Domain Adaptation. Proceedings of the VLDB Endowment (PVLDB), 2022. ######
+
+* ###### **_Di Jin_**, Ryan Rossi, Sungchul Kim and Danai Koutra. On Generalizing Static Node Embedding to Dynamic Settings. The Fifteenth International Conference on Web Search and Data Mining (WSDM), Phoenix, AZ, USA, Feb. 2022. ######
+
+* ###### Nishil Talati, **_Di Jin_**, Haojie Ye, Ajay Brahmakshatriya, Saman Amarasinghe, Trevor Mudge, Danai Koutra, and Ronald Dreslinski. A Deep Dive Into Understanding The Random Walk-Based Temporal Graph Learning. The the 2021 IEEE International Symposium on Workload Characterization (IISWC), Virtual conference, Nov. 2021. ######
+
+* ###### **_Di Jin_**, Bunyamin Sisman, Hao Wei, Luna Xin Dong and Danai Koutra. Deep Transfer Learning for Multi-source Entity Linkage. Amazon Machine Learning Conference (AMLC), 2021, (oral paper - 10% acceptance rate) ######
+
+* ###### Junchen Jin, Mark Heimann, **_Di Jin_**, and Danai Koutra. Towards Understanding and Evaluating Structural Node Embedding. Transactions on Knowledge Discovery from Data (TKDD) 2020. ######
+
+* ###### Ryan Rossi, **_Di Jin_**, Sungchul Kim, Nerseen Ahmed, John Boaz Lee and Danai Koutra. From Community to Role-based Graph Embeddings. Transactions on Knowledge Discovery from Data (TKDD) pp. 36. 2020. ######
 
 * ###### **_Di Jin_**, Mark Heimann, Ryan Rossi and Danai Koutra. node2bits: Compact Time- and Attribute-aware Node Representations for User Stitching. The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), Würzburg, Germany, Sep. 2019. [[paper]](https://arxiv.org/abs/1904.08572) [[poster]](/assets/pdf/19-PKDD-node2bits-poster.pdf) [[code]](https://github.com/DerekDiJin/node2bits) ######
 
