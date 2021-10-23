@@ -8,7 +8,7 @@ permalink: /research/
 Research interests
 ------
 
-Large scale graph mining, graph representation learning, social network analysis, summarization and applied machine learning
+<!-- Large scale graph mining, graph representation learning, social network analysis, summarization and applied machine learning -->
 
 
 I research representation learning on large-scale graphs via deep learning and applied machine learning techniques. Specifically, my research topics are:
