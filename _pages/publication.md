@@ -17,6 +17,8 @@ Conference & Journal
 
 * ###### **_Di Jin_**, Bunyamin Sisman, Hao Wei, Luna Xin Dong and Danai Koutra. Deep Transfer Learning for Multi-source Entity Linkage. Amazon Machine Learning Conference (AMLC), 2021, (oral paper - 10% acceptance rate) ######
 
+* ###### **_Di Jin_**, Yingmin Luo, Zhongang Qi and Ying Shan. TransFusion: Multi-Modal Fusion for Video Tag Inference viaTranslation-based Knowledge Embedding. ACM MultiMedia (ACM MM), Chengdu, China, Oct. 2021. ######
+
 * ###### Junchen Jin, Mark Heimann, **_Di Jin_**, and Danai Koutra. Towards Understanding and Evaluating Structural Node Embedding. Transactions on Knowledge Discovery from Data (TKDD) 2020. ######
 
 * ###### Ryan Rossi, **_Di Jin_**, Sungchul Kim, Nerseen Ahmed, John Boaz Lee and Danai Koutra. From Community to Role-based Graph Embeddings. Transactions on Knowledge Discovery from Data (TKDD) pp. 36. 2020. ######
