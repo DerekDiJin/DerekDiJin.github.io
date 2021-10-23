@@ -40,8 +40,7 @@ Conference & Journal
 Workshop & Demo
 ------
 
-* ###### Junchen Jin, Mark Heimann, **_Di Jin_**, Danai Koutra. Understanding and Evaluating Structural Node
-Embeddings. KDD Workshop on Mining and Learning with Graphs (MLG), August 2020. ######
+* ###### Junchen Jin, Mark Heimann, **_Di Jin_**, Danai Koutra. Understanding and Evaluating Structural Node Embeddings. KDD Workshop on Mining and Learning with Graphs (MLG), August 2020. ######
 
 * ###### Puja Trivedi, Alican Büyükçakır, Yin Lin, Yinlong Qian, **_Di Jin_**, Danai Koutra. On Structural vs. Proximity-based Temporal Node Embeddings. KDD Workshop on Mining and Learning with Graphs (MLG), August 2020. ######
 
