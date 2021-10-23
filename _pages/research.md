@@ -18,7 +18,7 @@ I research representation learning on large-scale graphs via deep learning and a
 
 * ###### Graph summarization to reduce the complexity of the large-scale real-world graph data while retaining the computational power of models in machine learning tasks. ######
 
-* ###### Domain-specific graph analysis and ######
+* ###### Domain-specific graph analysis and discovery. ######
 
 
 My research applications include:
