@@ -108,8 +108,8 @@ analytics:
 author:
   name             : "Di Jin"
   avatar           : "/assets/images/img_DiJin.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "4th-year Ph.D. student in CSE, University of Michigan, Ann Arbor."
-  location         : "Ann Arbor, MI"
+  bio              : "Applied scientist II, Amazon Alexa."
+  location         : "Seattle, WA"
   # email            : "dijin@umich.edu"
   links:
     - label: "Email"
